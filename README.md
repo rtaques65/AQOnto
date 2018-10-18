@@ -11,6 +11,6 @@ Entretanto, dependendo do conteúdo, estarão sujeitas a alterações ou eventua
 
 Outros módulos serão adicionados em seguida, referentes à API Java.
 
-Comentários, sugestões, podem ser enviada para o email: ricardotax@gmail.com
+Comentários e sugestões, podem ser enviadas para o email: ricardotax@gmail.com
 
 Grato.
